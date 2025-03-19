@@ -24,10 +24,4 @@ class informacoes extends People {
     public void setPeso(double peso) {
         this.peso = peso;
     }
-
-    @Override
-
-    public void exibirInfo() {
-        super.exibirInfo();
-    }
 }
