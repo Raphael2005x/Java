@@ -34,7 +34,4 @@ abstract class People {
     public void getIdade(int idade){
         this.idade = idade;
     }
-
-    public void exibirInfo() {
-    }
 }
